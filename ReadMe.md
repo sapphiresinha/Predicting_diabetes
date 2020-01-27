@@ -21,10 +21,12 @@ This project uses the following software and Python libraries:
 * pandas
 * scikit-learn
 * matplotlib  
+* Scipy
+* Seaborn
 * Jupyter Notebook
 
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included.
 
 
 ## Conclusion:  
-I applied many algorithms and extract feature importance. We got the best accuracy of 80.72% using RandomForestClassifier.After performing a lot of exploratory data analysis and we came to many conclusions. Optimizing Random Forest and Ensemble Learning can probably find a better result. 
+I applied many algorithms and extract feature importance. We got the best accuracy of 80.72% and AUC of 79.83% using RandomForestClassifier. After performing a lot of exploratory data analysis and we came to many conclusions. Optimizing Random Forest and Ensemble Learning can probably find a better result. 
